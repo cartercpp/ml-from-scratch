@@ -18,13 +18,8 @@ Each link goes to its own repository under [github.com/cartercpp](https://github
 - [Self-Organizing Map](https://github.com/cartercpp/self-organizing-map)
 - [Learning Vector Quantization](https://github.com/cartercpp/learning-vector-quantization)
 - [Fixed-Window Feedforward Neural Language Model](https://github.com/cartercpp/fixed-window-feedforward-neural-language-model)
-- [Neural Quantile Regression](https://github.com/cartercpp/quantile-regression)
 - [Digit Classification NN](https://github.com/cartercpp/nn-digit-classification)
-- [NN Learns Heart](https://github.com/cartercpp/nn-learns-heart)
-- [NN Learns Sine](https://github.com/cartercpp/nn-learns-sine)
 - [Neural Network Heat Map](https://github.com/cartercpp/neural-network-heat-map)
-- [Create Circle Neural Network](https://github.com/cartercpp/create-circle-neural-network)
-- [Tic-Tac-Toe Neural Network](https://github.com/cartercpp/tic-tac-toe-neural-network)
 
 ### Dimensionality Reduction
 - [PCA](https://github.com/cartercpp/principal-component-analysis)
@@ -38,7 +33,6 @@ Each link goes to its own repository under [github.com/cartercpp](https://github
 - [K-Nearest Neighbors](https://github.com/cartercpp/k-nearest-neighbors)
 
 ### Clustering
-- [K-Means](https://github.com/cartercpp/k-means)
 - [K-Means Clustering](https://github.com/cartercpp/k-means-clustering)
 - [Mean-Shift](https://github.com/cartercpp/mean-shift-clustering)
 - [Hierarchical Clustering](https://github.com/cartercpp/hierarchical-clustering)
@@ -54,9 +48,7 @@ Each link goes to its own repository under [github.com/cartercpp](https://github
 - [Quantile Regression](https://github.com/cartercpp/quantile-regression)
 
 ### Reinforcement Learning & Game AI
-- [Q-Learning Agent](https://github.com/cartercpp/q-learning-agent)
 - [Maze AI (Q-Learning)](https://github.com/cartercpp/maze-ai-from-scratch)
-- [AI Tic-Tac-Toe](https://github.com/cartercpp/ai-tic-tac-toe)
 - [Minimax Tic-Tac-Toe](https://github.com/cartercpp/minimax-tic-tac-toe)
 
 ### Anomaly Detection
