@@ -52,7 +52,6 @@ Each link goes to its own repository under [github.com/cartercpp](https://github
 
 ### Natural Language Processing
 - [CBOW](https://github.com/cartercpp/cbow)
-- [Fixed-Window Feedforward Neural Language Model](https://github.com/cartercpp/fixed-window-feedforward-neural-language-model)
 
 ### Anomaly Detection
 - [Local Outlier Factor](https://github.com/cartercpp/local-outlier-factor)
