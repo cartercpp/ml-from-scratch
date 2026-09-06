@@ -48,6 +48,8 @@ Each link goes to its own repository under [github.com/cartercpp](https://github
 
 ### Reinforcement Learning & Game AI
 - [Maze AI (Q-Learning)](https://github.com/cartercpp/maze-ai-from-scratch)
+- [Deep Q-Network](https://github.com/cartercpp/deep-q-network)
+- [NN Trained on a Q-Agent](https://github.com/cartercpp/nn-trained-on-q-agent)
 - [Minimax Tic-Tac-Toe](https://github.com/cartercpp/minimax-tic-tac-toe)
 
 ### Natural Language Processing
