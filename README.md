@@ -60,6 +60,7 @@ Each link goes to its own repository under [github.com/cartercpp](https://github
 
 ### Evolutionary Algorithms
 - [String Genetic Algorithm](https://github.com/cartercpp/string-genetic-algorithm)
+- [Particle Swarm Optimization](https://github.com/cartercpp/particle-swarm-optimization)
 
 ## Notes
 
