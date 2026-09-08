@@ -4,6 +4,8 @@ A collection of 40+ machine learning algorithms implemented from scratch in mode
 
 Each link goes to its own repository under [github.com/cartercpp](https://github.com/cartercpp).
 
+Companion indexes: [data-structures](https://github.com/cartercpp/data-structures) · [algorithms-from-scratch](https://github.com/cartercpp/algorithms-from-scratch) · [cryptography-from-scratch](https://github.com/cartercpp/cryptography-from-scratch) · [systems-from-scratch](https://github.com/cartercpp/systems-from-scratch) · [simulations-and-visuals](https://github.com/cartercpp/simulations-and-visuals) · [compile-time-cpp](https://github.com/cartercpp/compile-time-cpp)
+
 ## Algorithms
 
 ### Neural Networks
