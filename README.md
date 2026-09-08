@@ -1,6 +1,6 @@
 # From-Scratch Machine Learning Algorithms
 
-A collection of 40+ machine learning algorithms implemented from scratch in modern C++ without external ML libraries.
+A collection of machine learning algorithms implemented from scratch in modern C++ without external ML libraries.
 
 Each link goes to its own repository under [github.com/cartercpp](https://github.com/cartercpp).
 
@@ -19,8 +19,6 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 - [RBF Network](https://github.com/cartercpp/rbf-network)
 - [Self-Organizing Map](https://github.com/cartercpp/self-organizing-map)
 - [Learning Vector Quantization](https://github.com/cartercpp/learning-vector-quantization)
-- [Digit Classification NN](https://github.com/cartercpp/nn-digit-classification)
-- [Neural Network Heat Map](https://github.com/cartercpp/neural-network-heat-map)
 
 ### Dimensionality Reduction
 - [PCA](https://github.com/cartercpp/principal-component-analysis)
@@ -28,7 +26,6 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 ### Classification
 - [Linear SVM](https://github.com/cartercpp/linear-svm)
 - [Softmax Regression](https://github.com/cartercpp/softmax-regression)
-- [Quadrant Classification (Softmax)](https://github.com/cartercpp/quadrant-classification-using-softmax)
 - [Logistic Regression](https://github.com/cartercpp/logistic-regression)
 - [Naive Bayes](https://github.com/cartercpp/naive-bayes)
 - [K-Nearest Neighbors](https://github.com/cartercpp/k-nearest-neighbors)
@@ -51,7 +48,6 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 ### Reinforcement Learning & Game AI
 - [Maze AI (Q-Learning)](https://github.com/cartercpp/maze-ai-from-scratch)
 - [Deep Q-Network](https://github.com/cartercpp/deep-q-network)
-- [NN Trained on a Q-Agent](https://github.com/cartercpp/nn-trained-on-q-agent)
 - [Minimax Tic-Tac-Toe](https://github.com/cartercpp/minimax-tic-tac-toe)
 
 ### Natural Language Processing
@@ -68,4 +64,4 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 
 - Implementations are standalone C++ projects (typically C++20/C++23).
 - No PyTorch, Eigen, or other ML libraries — just the language and the standard library.
-- Several demos render training live in the terminal.
+- Demo-only variants (digit classifier, heat map, quadrant softmax) are omitted in favor of the core algorithm repos.
