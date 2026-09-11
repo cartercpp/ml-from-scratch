@@ -60,6 +60,9 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 - [String Genetic Algorithm](https://github.com/cartercpp/string-genetic-algorithm)
 - [Particle Swarm Optimization](https://github.com/cartercpp/particle-swarm-optimization)
 
+### Applications
+- [Bitcoin Price Prediction](https://github.com/cartercpp/nn-bitcoin-prediction)
+
 ## Notes
 
 - Implementations are standalone C++ projects (typically C++20/C++23).
