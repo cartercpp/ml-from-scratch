@@ -15,6 +15,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 - [Echo State Network](https://github.com/cartercpp/echo-state-network)
 - [Extreme Learning Machine](https://github.com/cartercpp/extreme-learning-machine)
 - [Autoencoder](https://github.com/cartercpp/autoencoder)
+- [GAN](https://github.com/cartercpp/gan)
 - [Hopfield Network](https://github.com/cartercpp/hopfield-network)
 - [RBF Network](https://github.com/cartercpp/rbf-network)
 - [Self-Organizing Map](https://github.com/cartercpp/self-organizing-map)
