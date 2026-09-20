@@ -53,6 +53,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 
 ### Natural Language Processing
 - [CBOW](https://github.com/cartercpp/cbow)
+- [Single-Head Attention](https://github.com/cartercpp/single-head-attention)
 
 ### Anomaly Detection
 - [Local Outlier Factor](https://github.com/cartercpp/local-outlier-factor)
