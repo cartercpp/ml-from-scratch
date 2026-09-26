@@ -20,6 +20,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 - [RBF Network](https://github.com/cartercpp/rbf-network)
 - [Self-Organizing Map](https://github.com/cartercpp/self-organizing-map)
 - [Learning Vector Quantization](https://github.com/cartercpp/learning-vector-quantization)
+- [Neural Cellular Automata](https://github.com/cartercpp/neural-cellular-automata)
 
 ### Dimensionality Reduction
 - [PCA](https://github.com/cartercpp/principal-component-analysis)
