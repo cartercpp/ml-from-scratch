@@ -16,6 +16,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 - [Extreme Learning Machine](https://github.com/cartercpp/extreme-learning-machine)
 - [Autoencoder](https://github.com/cartercpp/autoencoder)
 - [GAN](https://github.com/cartercpp/gan)
+- [Digits GAN (Conditional MNIST Generation)](https://github.com/cartercpp/digits-gan)
 - [Hopfield Network](https://github.com/cartercpp/hopfield-network)
 - [RBF Network](https://github.com/cartercpp/rbf-network)
 - [Self-Organizing Map](https://github.com/cartercpp/self-organizing-map)
@@ -68,6 +69,6 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 
 ## Notes
 
-- Implementations are standalone C++ projects (typically C++20/C++23).
+- Implementations are standalone C++ projects (typically C++20/C++23; some use C++26). See each repository's README for build requirements.
 - No PyTorch, Eigen, or other ML libraries — just the language and the standard library.
 - Demo-only variants (digit classifier, heat map, quadrant softmax) are omitted in favor of the core algorithm repos.
