@@ -10,6 +10,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 
 ### Neural Networks
 - [Neural Network](https://github.com/cartercpp/neural-network)
+- [Forward-Forward](https://github.com/cartercpp/forward-forward)
 - [Simple RNN](https://github.com/cartercpp/simple-rnn)
 - [LSTM](https://github.com/cartercpp/simple-lstm-cell)
 - [Echo State Network](https://github.com/cartercpp/echo-state-network)
