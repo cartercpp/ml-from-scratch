@@ -53,6 +53,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 ### Reinforcement Learning & Game AI
 - [Maze AI (Q-Learning)](https://github.com/cartercpp/maze-ai-from-scratch)
 - [Deep Q-Network](https://github.com/cartercpp/deep-q-network)
+- [Wordle DQN (Deep Q-Network)](https://github.com/cartercpp/wordle-dqn)
 - [Minimax Tic-Tac-Toe](https://github.com/cartercpp/minimax-tic-tac-toe)
 
 ### Natural Language Processing
