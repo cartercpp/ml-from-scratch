@@ -57,6 +57,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 
 ### Natural Language Processing
 - [CBOW](https://github.com/cartercpp/cbow)
+- [Mixture of Experts (Next-Character Prediction)](https://github.com/cartercpp/moe-next-char-prediction)
 - [Single-Head Attention](https://github.com/cartercpp/single-head-attention)
 
 ### Anomaly Detection
