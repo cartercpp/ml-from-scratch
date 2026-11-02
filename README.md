@@ -9,7 +9,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 ## Algorithms
 
 ### Neural Networks
-- [Neural Network](https://github.com/cartercpp/neural-network)
+- [Backpropagation from Scratch](https://github.com/cartercpp/backprop-impl-with-comments)
 - [Forward-Forward](https://github.com/cartercpp/forward-forward)
 - [Recurrent Neural Network](https://github.com/cartercpp/recurrent-neural-network)
 - [LSTM](https://github.com/cartercpp/simple-lstm-cell)
