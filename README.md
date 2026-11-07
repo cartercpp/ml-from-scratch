@@ -19,6 +19,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 - [Variational Autoencoder (VAE)](https://github.com/cartercpp/variational-autoencoder)
 - [GAN](https://github.com/cartercpp/gan)
 - [Digits GAN (Conditional MNIST Generation)](https://github.com/cartercpp/digits-gan)
+- [JEPA](https://github.com/cartercpp/JEPA)
 - [Hopfield Network](https://github.com/cartercpp/hopfield-network)
 - [RBF Network](https://github.com/cartercpp/rbf-network)
 - [Self-Organizing Map](https://github.com/cartercpp/self-organizing-map)
