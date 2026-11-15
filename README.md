@@ -64,6 +64,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 - [Local Outlier Factor](https://github.com/cartercpp/local-outlier-factor)
 
 ### Evolutionary Algorithms
+- [Neuroevolution (Maze Solver)](https://github.com/cartercpp/neuroevolution)
 - [String Genetic Algorithm](https://github.com/cartercpp/string-genetic-algorithm)
 - [Particle Swarm Optimization](https://github.com/cartercpp/particle-swarm-optimization)
 
