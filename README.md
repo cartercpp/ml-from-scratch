@@ -19,6 +19,7 @@ Companion indexes: [data-structures](https://github.com/cartercpp/data-structure
 - [Digits GAN (Conditional MNIST Generation)](https://github.com/cartercpp/digits-gan)
 - [JEPA](https://github.com/cartercpp/JEPA)
 - [Convolutional Neural Network (CIFAR-10)](https://github.com/cartercpp/simple-cnn)
+- [Hypernetwork](https://github.com/cartercpp/hypernetwork)
 - [Hopfield Network](https://github.com/cartercpp/hopfield-network)
 - [RBF Network](https://github.com/cartercpp/rbf-network)
 - [Self-Organizing Map](https://github.com/cartercpp/self-organizing-map)
